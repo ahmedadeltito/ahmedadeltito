@@ -16,7 +16,7 @@ I’m Ahmed, known to many as Tito. With over 12 years of expertise in mobile de
 
 <span style="white-space: pre-wrap; margin: 14px 0px;">This journey inspired me to create an <a class="silk-link" href="https://trello.com/templates/engineering/android-developer-roadmap-fsc44tYh">Android Roadmap</a>, a comprehensive guide for anyone eager to learn Android development from scratch.</span>
 
-<span style="white-space: pre-wrap; margin: 14px 0px 0px;">Whether you’re looking for expert consultation for your tech startup, I’m <a class="silk-link" href="#contact">here to help</a> you navigate the complexities of mobile development and achieve your goals.</span>
+<span style="white-space: pre-wrap; margin: 14px 0px 0px;">Whether you’re looking for expert consultation for your tech startup, I’m <a class="silk-link" href="https://www.ahmedadeltito.com/#contact">here to help</a> you navigate the complexities of mobile development and achieve your goals.</span>
 
 ## 📫 How to reach me: ...
 - Please feel free to reach me through my [website](https://www.ahmedadeltito.com)
