@@ -1,8 +1,4 @@
-# 👋🏻 Welcome to My GitHub 👋🏻
-
-<img src="https://ahmedadeltito.com/main.png" width="600">
-
-## 🔭 A little bit about myself: ...
+# 🔭 A little bit about myself: ...
 
 I’m Ahmed, known to many as Tito. With over 12 years of expertise in mobile development, particularly Android, I’ve honed my skills as a Senior Software Engineer.
 
